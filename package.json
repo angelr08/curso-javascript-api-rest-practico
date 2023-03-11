@@ -1,0 +1,19 @@
+{
+  "name": "curso-javascript-api-rest-practico",
+  "version": "1.0.0",
+  "description": "Curso Práctico de consumo de API REST con JavaScript de Platzi",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelr08/curso-javascript-api-rest-practico.git"
+  },
+  "author": "angelr08",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angelr08/curso-javascript-api-rest-practico/issues"
+  },
+  "homepage": "https://github.com/angelr08/curso-javascript-api-rest-practico#readme"
+}
